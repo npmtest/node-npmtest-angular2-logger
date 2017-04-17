@@ -1,0 +1,40 @@
+<svg height="590" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="590" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-17 23:51:38 +0000    75236 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-17 23:51:38 +0000     1099 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-17 23:51:38 +0000     8302 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-17 23:51:38 +0000      381 bytes  app/core/level.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-17 23:51:38 +0000      534 bytes  app/core/level.js.map</tspan>
+<tspan x="10" y="106">  5.  2017-04-17 23:51:38 +0000      221 bytes  app/core/level.ts</tspan>
+<tspan x="10" y="122">  6.  2017-04-17 23:51:38 +0000     5025 bytes  app/core/logger.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-17 23:51:38 +0000     7359 bytes  app/core/logger.js.map</tspan>
+<tspan x="10" y="154">  8.  2017-04-17 23:51:38 +0000     3902 bytes  app/core/logger.ts</tspan>
+<tspan x="10" y="170">  9.  2017-04-17 23:51:38 +0000      868 bytes  app/core/providers.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-17 23:51:38 +0000     1843 bytes  app/core/providers.js.map</tspan>
+<tspan x="10" y="202"> 11.  2017-04-17 23:51:38 +0000      917 bytes  app/core/providers.ts</tspan>
+<tspan x="10" y="218"> 12.  2017-04-17 23:51:38 +0000     9894 bytes  bundles/angular2-logger.sys.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-17 23:51:38 +0000     9916 bytes  bundles/angular2-logger.sys.js.map</tspan>
+<tspan x="10" y="250"> 14.  2017-04-17 23:51:38 +0000     6189 bytes  bundles/angular2-logger.sys.min.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-17 23:51:38 +0000     1300 bytes  core.d.ts</tspan>
+<tspan x="10" y="282"> 16.  2017-04-17 23:51:38 +0000      272 bytes  core.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-17 23:51:38 +0000      387 bytes  core.js.map</tspan>
+<tspan x="10" y="314"> 18.  2017-04-17 23:51:38 +0000      341 bytes  dist/es6/app/core/level.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-17 23:51:38 +0000      280 bytes  dist/es6/app/core/level.js.map</tspan>
+<tspan x="10" y="346"> 20.  2017-04-17 23:51:38 +0000     3506 bytes  dist/es6/app/core/logger.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-17 23:51:38 +0000     2744 bytes  dist/es6/app/core/logger.js.map</tspan>
+<tspan x="10" y="378"> 22.  2017-04-17 23:51:38 +0000      734 bytes  dist/es6/app/core/providers.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-17 23:51:38 +0000      962 bytes  dist/es6/app/core/providers.js.map</tspan>
+<tspan x="10" y="410"> 24.  2017-04-17 23:51:38 +0000      142 bytes  dist/es6/core.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-17 23:51:38 +0000      166 bytes  dist/es6/core.js.map</tspan>
+<tspan x="10" y="442"> 26.  2017-04-17 23:51:38 +0000      158 bytes  docs/dev/rebase.md</tspan>
+<tspan x="10" y="458"> 27.  2017-04-17 23:51:38 +0000     4529 bytes  package.json</tspan>
+<tspan x="10" y="474"> 28.  2017-04-17 23:51:38 +0000      679 bytes  tsconfig-amd.json</tspan>
+<tspan x="10" y="490"> 29.  2017-04-17 23:51:38 +0000      453 bytes  tsconfig-es2015.json</tspan>
+<tspan x="10" y="506"> 30.  2017-04-17 23:51:38 +0000      575 bytes  tsconfig-es5.json</tspan>
+<tspan x="10" y="522"> 31.  2017-04-17 23:51:38 +0000      367 bytes  tsconfig-es6.json</tspan>
+<tspan x="10" y="538"> 32.  2017-04-17 23:51:38 +0000      609 bytes  tsconfig-sys.json</tspan>
+<tspan x="10" y="554"> 33.  2017-04-17 23:51:38 +0000      580 bytes  tsconfig.json.bak</tspan>
+<tspan x="10" y="570"> 34.  2017-04-17 23:51:38 +0000        2 bytes  tslint.json</tspan>
+</text>
+</svg>

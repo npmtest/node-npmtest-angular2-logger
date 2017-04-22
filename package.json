@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [angular2-logger (v0.5.1)](https://github.com/code-chunks/angular2-logger#readme) [![npm package](https://img.shields.io/npm/v/npmtest-angular2-logger.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-angular2-logger) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-angular2-logger.svg)](https://travis-ci.org/npmtest/node-npmtest-angular2-logger)",
+    "description": "#### basic test-coverage for  [angular2-logger (v0.5.1)](https://github.com/code-chunks/angular2-logger#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-angular2-logger.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-angular2-logger) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-angular2-logger.svg)](https://travis-ci.org/npmtest/node-npmtest-angular2-logger)",
     "devDependencies": {
         "angular2-logger": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
@@ -36,5 +36,5 @@
         "start": "PORT=${PORT:-8080} utility2 start test.js",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "2017.4.23"
 }
